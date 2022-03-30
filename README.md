@@ -11,7 +11,7 @@ Supports both CSCS and Image Service buckets
 * Collection mode with the number of rows adjusted https://miosdv.apps-dev.hbp.eu/index.html?bucket=https://object.cscs.ch/v1/AUTH_08c08f9f119744cbbf77e216988da3eb/imgsvc-890b727c-f3b5-624f-028a-4f6d35acce18&collectionMode=true&collectionRows=20
 
 # Documentation
-
+https://multi-image-osd.readthedocs.io/en/latest/
 
 # Developer
 Dmitri Darine https://github.com/darwinjob
