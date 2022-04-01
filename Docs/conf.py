@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Localizoom'
-copyright = '2021, NeSys'
+project = 'Multi-Image-OSd viewer'
+copyright = '2022, NeSys'
 author = 'NeSys'
 
 
