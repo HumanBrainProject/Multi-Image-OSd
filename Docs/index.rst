@@ -22,5 +22,5 @@ Multi-Image OpenSeadragon viewer: browser-based classic pan and zoom capabilitie
    :maxdepth: 3
    
    basic
-   annotation
+   collection
    
