@@ -14,6 +14,8 @@ allowing to zoom from common, display-sized overview resolutions down to
 the microscopic resolution without downloading the underlying very large
 image dataset.
 
+
+
 .. image:: vertopal_1621aadde82348db9f1e3d1cbe6214f5/media/image1.png
    :alt: Z:\MAJAP\QUINT_manuals\MOSd_intro.png
    :width: 6.3in
