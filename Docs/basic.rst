@@ -1,4 +1,5 @@
 **Multi-Image-OSd viewer**
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Basic controls**
 
