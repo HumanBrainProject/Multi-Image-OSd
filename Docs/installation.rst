@@ -1,4 +1,5 @@
 **Installation requirements**
+==============================
 
 Any modern browser (including mobile versions)
 
