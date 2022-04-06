@@ -15,7 +15,7 @@ In the upper panel, users can pan and zoom using the “+” and “-“ signs
 or the mouse scroll wheel (3); the home button (4) allow users to go
 back to the default field of view.
 
-The next squared icon (5) allow users to toggle to a full page view. The
+The next squared icon (5) allow users to toggle to a full screen view. The
 question mark (6) give access to Navigation tips (also described below).
 
 The left and right arrows allow to go to the next image or back (7). The
