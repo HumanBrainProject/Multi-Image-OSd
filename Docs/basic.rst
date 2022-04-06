@@ -1,5 +1,5 @@
 **Basic controls**
-~~~~~~~~~~~~~~~~~~~~~~
+-------------------
 
 
 .. image:: vertopal_1621aadde82348db9f1e3d1cbe6214f5/media/image2.png
