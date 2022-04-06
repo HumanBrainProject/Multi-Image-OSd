@@ -1,4 +1,4 @@
-Multi-Image OpenSeadragon viewer: browser-based classic pan and zoom capabilities for a collection of 2D brain section images in DeepZoom Image (DZI) format.
+Multi-Image OpenSeadragon viewer
 ============================================================
 
 .. toctree::
