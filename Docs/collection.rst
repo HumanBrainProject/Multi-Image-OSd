@@ -1,4 +1,5 @@
 **Collection Mode**
+--------------------
 
 By providing the parameter “&collectionMode=true” to the URL, all image
 sections are visible and can be zoom onto as well.
