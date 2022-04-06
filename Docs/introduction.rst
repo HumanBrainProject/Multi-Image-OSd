@@ -8,7 +8,7 @@ pan and zoom capabilities. A collection can be displayed as a filmstrip
 of row and columns. The navigation options: keyboard or/and mouse, touch
 devices are supported too.
 
-Building on the open standard Deep Zoom Image (DZI) format, it is able
+Utilizing the open standard Deep Zoom Image (DZI) format, it is able
 to efficiently visualise very large brain images in the gigapixel range,
 allowing to zoom from common, display-sized overview resolutions down to
 the microscopic resolution without downloading the underlying very large
