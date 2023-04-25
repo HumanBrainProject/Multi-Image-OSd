@@ -19,7 +19,7 @@ FPA).
 
 **Licence:**
 ============
-GLP
+GPL
 
 **Citation of the tool:**
 ==========================
