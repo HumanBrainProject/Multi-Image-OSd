@@ -21,7 +21,7 @@ Dmitri Darine https://github.com/darwinjob
 
 # Licence
 - Main component: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-- Source code: MIT licence
+- Source code: GLP
 
 # Contact us
 Report issues here on github or email: support@ebrains.eu
